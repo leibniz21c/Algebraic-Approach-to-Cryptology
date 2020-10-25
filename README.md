@@ -1,4 +1,4 @@
-# Algebraic Approach to Cryptology
+# 암호학의 대수적 접근(KOR)
 ---
 ### Chapter01. 암호의 개요와 치환 암호
 1. 암호의 개요
@@ -16,20 +16,54 @@
 3. 알베르티 암호
 4. 정사각형 암호표 : 트리테미우스 암호표
 5. 동시발생지수를 이용한 다표식 치환 암호의 접근
-6. Kasiski Test
-7. Kappa Test
+6. 카지스키 테스트
+7. 카파 테스트
 8. 다표식 치환 암호의 곱암호
 9. 실습
 
 ### Chapter03. 전치 암호
+0. Overview.Permutation
+1. 스키테일 암호
+2. 기하학적 전치 암호, 울타리 암호
+3. 순열암호
+4. 순열의 곱
+5. 키가 있는 행렬형 전치 암호
+6. 행렬의 크기 결정법
+7. 애너그램
+
 ### Chapter04. 암호와 컴퓨터
 ### Chapter05. 스트림 암호
 ### Chapter06. 지수와 관련된 암호
 ### Chapter07. 공개키 
+--- 
 
-교재를 만든 환경이 MAC이라서 윈도우에서 볼때 차이가 있을 수가 있습니다.<br>
-4주차 수업 영상은 30일후에 데이터가 소거되오니, 개인 저장소에 저장하시기를 바랍니다.<br><br>
+# Algebraic Approach to Cryptology(ENG)
+---
+### Chapter01. Introduction of Cryptology and Substitution Cipher
+1. Introduction of Cipher
+2. Caeser Cipher
+3. Generalized Ceaser Cipher : Additive Cipher
+4. Product Cipher
+5. Affine Cipher
+6. Decoding of Monoalphabetic monographic substitution cipher
+7. Hill Cipher : Ploygraphic substitution cipher
+8. Known-plaintext attack
+9. Exercise
 
-#### 5주차 수업 안내 : 
-일시 : 2020.10.04(일) 13:00 <br>
-공지드린대로 강의는 인강형식으로 제공됩니다.<br>
+### Chapter02. Polyalphabetic Substitution Cipher
+1. Homophonic cipher
+2. Letter frequency and Index of coincidence
+3. Alberti Cipher
+4. Tabula Recta : Trithemius Cipher Table
+5. Polyalphabetic substitution cipher approach using Index of coincidence
+6. Kasiski Test
+7. Kappa Test
+8. Product cipher of Polyalphabetic substitution cipher
+9. Exercise
+
+### Chapter03. Transpose Cipher
+0. Overview.Permutation
+1. Scytale Cipher
+2. Geometric Transpose Cipher
+3. Permutation Cipher
+4. Product of Permutation
