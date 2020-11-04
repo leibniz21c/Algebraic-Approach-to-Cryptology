@@ -40,8 +40,9 @@ CH03 - 01<br><br>
 3. 순열암호
 4. 순열의 곱
 5. 키가 있는 행렬형 전치 암호
-6. 행렬의 크기 결정법
+6. 전치 암호의 해독
 7. 애너그램
+8. 실습
 
 ### Chapter04. 암호와 컴퓨터
 ### Chapter05. 스트림 암호
@@ -79,3 +80,7 @@ CH03 - 01<br><br>
 2. Geometric Transpose Cipher
 3. Permutation Cipher
 4. Product of Permutation
+5. Keyed Columnar Transposition
+6. Decoding of Transpose Cipher
+7. Anagram
+8. Exercise
