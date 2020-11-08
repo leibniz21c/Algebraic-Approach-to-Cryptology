@@ -12,12 +12,19 @@ CH03)<br>
 2. 키가 있는 행렬형 전치 암호
 3. 행렬형 전치 암호의 해독
 4. 애너그램
+CH04)<br>
+1. 현대 암호학의 핵심 원리
+2. 혼합 함수
+3. SP 네트워크
+4. 페이스탈 네트워크
 
 이산수학)<br>
 1. 트리<br><br>
 
 특강)<br>
-1. 행렬 개론<br><br>
+1. 행렬 개론
+2. 이진 기계에서의 보편적인 데이터 표현과 연산에 대한 정의
+<br><br>
 
 # 암호학의 대수적 접근(KOR)
 ---
@@ -54,6 +61,11 @@ CH03)<br>
 8. 실습
 
 ### Chapter04. 암호와 컴퓨터
+1. 현대 암호의 핵심 원리
+2. 혼합 함수
+3. 치환 순열 네트워크
+4. 페이스탈 네트워크
+
 ### Chapter05. 스트림 암호
 ### Chapter06. 지수와 관련된 암호
 ### Chapter07. 공개키 
@@ -93,3 +105,10 @@ CH03)<br>
 6. Decoding of Transpose Cipher
 7. Anagram
 8. Exercise
+
+### Chapter04. Cipher with Computer
+0. Overview.Data and Operation in Binary Machine
+1. Fundamental principle of modern cipher
+2. Mixture function
+3. Substitution-Permutation Network
+4. Feistel Network
